@@ -1,0 +1,31 @@
+importing the packages
+exploring the dataset
+data processing
+visualization using seaborn & matplotlib
+Data Cleaning
+Tokenization based Vectorization
+Splitting the data to train and test
+building the model
+
+    - RF
+    - DT
+    - LR
+    - KNN
+    - AdaBoost
+    - Naive Bayes
+    - LightBGM
+    - CatBoost
+    - Voting Classifier
+    - Grid Search CV 
+	- LR
+	- Naive Bayes
+    
+training the model
+building the model with Voting Classifier gives better accuracy
+Flask Framework with Sqlite for signup and signin
+importing the packages
+User gives input as drug name 
+the given input is preprocessed for prediction
+trained model is used for prediction
+final outcome is displayed through frontend
+
